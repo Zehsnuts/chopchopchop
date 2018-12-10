@@ -1,0 +1,25 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 23.21.13.9135]
+    Renderer: NVIDIA GeForce GTX 780
+    Vendor:   NVIDIA
+    VRAM:     3003 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Downloads\ChopChopChop\ChopChopChop_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Downloads\ChopChopChop\ChopChopChop_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Downloads\ChopChopChop\ChopChopChop_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Downloads\ChopChopChop\ChopChopChop_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Downloads\ChopChopChop\ChopChopChop_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Downloads\ChopChopChop\ChopChopChop_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.229 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 5280x1200 at -1440,0
+UnloadTime: 5.023778 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 1.696685 ms (FindLiveObjects: 0.029222 ms CreateObjectMapping: 0.025305 ms MarkObjects: 0.481711 ms  DeleteObjects: 0.038862 ms)
+
